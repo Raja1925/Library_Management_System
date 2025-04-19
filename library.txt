@@ -1,0 +1,6 @@
+101 "The Alchemist" "Paulo Coelho" 1988 Available
+102 "The Intelligent Invester" "Benjamin Graham" 1949 Available
+103 "Rich Dad Poor Dad" "Robert Kiyosaki" 1997 Available
+104 "The Great Gatsby" "F. Scott Fitzgerald" 1925 Available
+105 "Sapiens" "Yuval Noah Harari" 2011 Available
+106 "The Power Of Habbit" "Charles Duhigg" 2012 Available
