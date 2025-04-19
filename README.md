@@ -38,7 +38,7 @@ LibraryManagement/
 ### 1. Navigate to the Project Directory:
 Replace "file_location" with the actual path of the folder on your system:
 
-    cd "file_location"\RajaKumarSingh_2101793_CEC_TBL2_M2_06-04-25\LibraryManagement
+    cd "file_location"\LibraryManagement
 
 
 ### 2. Compile the Project:
